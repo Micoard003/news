@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://micoard003.github.io/news/sitemap.xml
